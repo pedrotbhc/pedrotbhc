@@ -22,8 +22,7 @@ Amante de matemática, desafios e jogos complexos.
 ---
 
 ## Projetos
-
-- [WorldLab](https://github.com/pedrotbhc/worldlab) — meu jogo em Rust, versão Termux.  
+- [Dusty](https://github.com/pedrotbhc/dusty) - Meu gerenciador de arquivos para terminal escrito em Rust.
 - Outros projetos relevantes podem ser encontrados na minha página.
 
 ---
