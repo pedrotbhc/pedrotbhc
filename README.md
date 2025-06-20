@@ -1,6 +1,6 @@
 # Pedro Henrique
 
-Programador Rust focado em Termux e sistemas robustos.  
+Programador Rust focado em Linux e sistemas robustos.  
 Amante de matemática, desafios e jogos complexos.
 
 ---
