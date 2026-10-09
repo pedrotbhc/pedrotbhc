@@ -1,3 +1,1 @@
-gosto de rust e c++.
-
-Ghost e Tame Impala me definem.
+Odeio Rust mas uso, to sumido mas voltarei como ditador do mundo até 2050.
